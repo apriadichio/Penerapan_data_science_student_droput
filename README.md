@@ -26,7 +26,7 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/stude
 
 2. **Clone repositori GitHub kamu:**
 
-   ```bash
+   ```
    git clone https://github.com/apriadichio/Penerapan_data_science_student_droput.git
    ```
 
@@ -65,7 +65,7 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/stude
    jupyter-notebook
    ```
 
-8. **Atau jalankan aplikasi Streamlit (jika menggunakan app.py):**
+8. **Atau jalankan aplikasi Streamlit :**
 
    ```bash
    streamlit run app.py
