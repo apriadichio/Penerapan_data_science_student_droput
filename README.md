@@ -74,19 +74,18 @@ Beberapa insight utama dari dashboard:
 - Mahasiswa yang tidak membayar biaya kuliah tepat waktu atau tidak menerima beasiswa lebih rentan dropout.
 - Jurusan seperti Management menunjukkan tingkat dropout yang sangat tinggi.
 - Status pernikahan seperti "divorced" atau "legally separated" juga menunjukkan kecenderungan dropout yang lebih tinggi, dengan statu single memiliki jumlah dropout tertinggi
-- 
+
 Link Looker : https://lookerstudio.google.com/reporting/9bbf1365-7f78-4c4a-8716-300a45012777/page/gRmOF?s=mdSo8rm7J5w
 
 ## Menjalankan Sistem Machine Learning
 Pastikan file ```final_pipeline.pkl``` dan ```label_encoder``` sudah ada dan tersimpan dengan benar 
 
-** Jalankan aplikasi Streamlit :**
+**Jalankan aplikasi Streamlit :**
    ```bash
    streamlit run app.py
    ```
 
    Atau akses link berikut :https://penerapandatasciencestudentdroput-yu8paenfvajcevz5rmn4vz.streamlit.app/
-
 
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
