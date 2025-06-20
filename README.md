@@ -15,7 +15,7 @@ Maka dari itu, institusi ini ingin **memprediksi kemungkinan dropout mahasiswa s
 1. **Analisis data historis mahasiswa**
 2. **Membangun model machine learning untuk klasifikasi dropout**
 3. **Mengevaluasi performa model**
-4. **Membuat prototype sistem prediksi berbasis UI**
+4. **Membuat prototype sistem prediksi berbasis UI menggunakan streamlit**
 5. **Membuat business dashboard (Looker Studio)** sebagai alat bantu pengambilan keputusan
 
 
