@@ -1,14 +1,23 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Institusi Pendidikan
 
 ## Business Understanding
-Jaya Jaya Institut merupakan salah satu institusi pendidikan tinggi yang telah berdiri sejak tahun 2000 dan memiliki reputasi baik dalam menghasilkan lulusan berkualitas. Namun, salah satu tantangan besar yang dihadapi adalah tingginya angka **mahasiswa yang mengalami dropout** atau tidak menyelesaikan pendidikannya. Maka dari itu, institusi ini ingin **memprediksi kemungkinan dropout mahasiswa sejak dini** agar dapat mengambil tindakan pencegahan, seperti pemberian bimbingan khusus.
+Jaya Jaya Institut merupakan salah satu institusi pendidikan tinggi yang telah berdiri sejak tahun 2000 dan memiliki reputasi baik dalam menghasilkan lulusan berkualitas. Namun, salah satu tantangan besar yang dihadapi adalah tingginya angka **mahasiswa yang mengalami dropout** atau tidak menyelesaikan pendidikannya.
 
+Maka dari itu, institusi ini ingin **memprediksi kemungkinan dropout mahasiswa sejak dini** agar dapat mengambil tindakan pencegahan, seperti pemberian bimbingan khusus.
 
 ### Permasalahan Bisnis
-Tuliskan seluruh permasalahan bisnis yang akan diselesaikan.
+- Tingginya jumlah mahasiswa yang mengalami dropout di Jaya Jaya Institut.
+- Dampak negatif terhadap reputasi institusi dan nilai akreditasi.
+- Tidak adanya sistem deteksi dini untuk mengidentifikasi mahasiswa yang berisiko tinggi melakukan dropout.
+- Kurangnya informasi berbasis data yang dapat digunakan untuk mendukung intervensi dan pengambilan keputusan yang cepat dan tepat.
 
 ### Cakupan Proyek
-Tuliskan cakupan proyek yang akan dikerjakan.
+1. **Analisis data historis mahasiswa**
+2. **Membangun model machine learning untuk klasifikasi dropout**
+3. **Mengevaluasi performa model**
+4. **Membuat prototype sistem prediksi berbasis UI**
+5. **Membuat business dashboard (Looker Studio)** sebagai alat bantu pengambilan keputusan
+
 
 ### Persiapan
 
