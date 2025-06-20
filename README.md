@@ -88,9 +88,24 @@ Pastikan file ```final_pipeline.pkl``` dan ```label_encoder``` sudah ada dan ter
    Atau akses link berikut :https://penerapandatasciencestudentdroput-yu8paenfvajcevz5rmn4vz.streamlit.app/
 
 ## Conclusion
-Jelaskan konklusi dari proyek yang dikerjakan.
+Dalam proyek ini, model terbaik yang diperoleh adalah Logistic Regression, yang mencapai performa sangat baik dengan skor AUC sebesar 0.9006 setelah dilakukan balancing data menggunakan SMOTE dan pemilihan fitur menggunakan RFE (Recursive Feature Elimination).
+
+Model ini mampu secara akurat membedakan antara mahasiswa yang berisiko dropout dan yang tidak, berdasarkan kombinasi faktor akademik, administratif, dan sosiodemografis.
+
+Berdasarkan analisis koefisien model, berikut adalah beberapa faktor paling berpengaruh terhadap risiko dropout:
+- Status pembayaran tuition fee yang up to date → sangat berkontribusi dalam mengurangi kemungkinan dropout.
+- Pekerjaan ibu dan ayah, serta tingkat pendidikan orang tua, memberikan pengaruh signifikan terhadap kelanjutan studi mahasiswa.
 
 ### Rekomendasi Action Items
-Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-- action item 1
-- action item 2
+- Identifikasi Mahasiswa Berisiko Tinggi Secara Berkala
+  Gunakan sistem prediksi untuk mendeteksi mahasiswa dengan skor risiko tinggi, terutama berdasarkan ciri seperti belum membayar tuition fee
+  
+- Berikan Dukungan Keuangan dan Pendampingan Akademik
+  Fokuskan bantuan kepada mahasiswa yang belum up-to-date dalam pembayaran biaya pendidikan, serta yang memiliki histori akademik lemah pada semester awal.
+
+- Evaluasi kurikulum
+  Melakukan evaluasi kurikulum pada course-course yang memiliki rasio dropout tinggi seperti management dan basic education
+
+- Sistem Mentoring atau Buddy System
+  Tunjuk mahasiswa senior sebagai mentor untuk setiap mahasiswa baru. Fokuskan pada semester 1 dan 2 yang kritis.
+
