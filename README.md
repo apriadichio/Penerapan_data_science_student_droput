@@ -22,6 +22,54 @@ Maka dari itu, institusi ini ingin **memprediksi kemungkinan dropout mahasiswa s
 ### Persiapan
 
 Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv
+1. **Buka terminal atau PowerShell.**
+
+2. **Clone repositori GitHub kamu:**
+
+   ```bash
+   git clone https://github.com/apriadichio/Penerapan_data_science_student_droput.git
+   ```
+
+3. **Masuk ke folder proyek:**
+
+   ```bash
+   cd Penerapan_data_science_student_droput
+   ```
+
+4. **Buat virtual environment:**
+
+   ```bash
+   python -m venv venv
+   ```
+
+5. **Aktifkan virtual environment:**
+
+   - **Windows:**
+     ```bash
+     venv\Scripts\activate
+     ```
+   - **Mac/Linux:**
+     ```bash
+     source venv/bin/activate
+     ```
+
+6. **Instal semua dependensi dari **``**:**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+7. **Jalankan Notebook (opsional):**
+
+   ```bash
+   jupyter-notebook
+   ```
+
+8. **Atau jalankan aplikasi Streamlit (jika menggunakan app.py):**
+
+   ```bash
+   streamlit run app.py
+   ```
 
 
 
