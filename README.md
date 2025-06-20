@@ -98,14 +98,18 @@ Berdasarkan analisis koefisien model, berikut adalah beberapa faktor paling berp
 
 ### Rekomendasi Action Items
 - Identifikasi Mahasiswa Berisiko Tinggi Secara Berkala
+
   Gunakan sistem prediksi untuk mendeteksi mahasiswa dengan skor risiko tinggi, terutama berdasarkan ciri seperti belum membayar tuition fee
   
 - Berikan Dukungan Keuangan dan Pendampingan Akademik
+
   Fokuskan bantuan kepada mahasiswa yang belum up-to-date dalam pembayaran biaya pendidikan, serta yang memiliki histori akademik lemah pada semester awal.
 
 - Evaluasi kurikulum
+
   Melakukan evaluasi kurikulum pada course-course yang memiliki rasio dropout tinggi seperti management dan basic education
 
 - Sistem Mentoring atau Buddy System
+  
   Tunjuk mahasiswa senior sebagai mentor untuk setiap mahasiswa baru. Fokuskan pada semester 1 dan 2 yang kritis.
 
