@@ -65,23 +65,28 @@ Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/stude
    jupyter-notebook
    ```
 
-8. **Atau jalankan aplikasi Streamlit :**
 
+## Business Dashboard
+Untuk mendukung analisis visual, telah dibuat dashboard interaktif menggunakan Looker Studio. Dashboard ini menyajikan visualisasi dropout, distribusi variabel penting, dan insight lainnya yang dapat digunakan oleh pihak institusi.
+
+Beberapa insight utama dari dashboard:
+- Mahasiswa usia muda (18–19 tahun) memiliki tingkat dropout lebih tinggi.
+- Mahasiswa yang tidak membayar biaya kuliah tepat waktu atau tidak menerima beasiswa lebih rentan dropout.
+- Jurusan seperti Management menunjukkan tingkat dropout yang sangat tinggi.
+- Status pernikahan seperti "divorced" atau "legally separated" juga menunjukkan kecenderungan dropout yang lebih tinggi, dengan statu single memiliki jumlah dropout tertinggi
+- 
+Link Looker : https://lookerstudio.google.com/reporting/9bbf1365-7f78-4c4a-8716-300a45012777/page/gRmOF?s=mdSo8rm7J5w
+
+## Menjalankan Sistem Machine Learning
+Pastikan file ```final_pipeline.pkl``` dan ```label_encoder``` sudah ada dan tersimpan dengan benar 
+
+** Jalankan aplikasi Streamlit :**
    ```bash
    streamlit run app.py
    ```
 
+   Atau akses link berikut :https://penerapandatasciencestudentdroput-yu8paenfvajcevz5rmn4vz.streamlit.app/
 
-
-## Business Dashboard
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
-
-## Menjalankan Sistem Machine Learning
-Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat. Selain itu, sertakan juga link untuk mengakses prototype tersebut.
-
-```
-
-```
 
 ## Conclusion
 Jelaskan konklusi dari proyek yang dikerjakan.
