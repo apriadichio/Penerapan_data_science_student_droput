@@ -21,12 +21,9 @@ Maka dari itu, institusi ini ingin **memprediksi kemungkinan dropout mahasiswa s
 
 ### Persiapan
 
-Sumber data: ....
+Sumber data: https://github.com/dicodingacademy/dicoding_dataset/blob/main/students_performance/data.csv
 
-Setup environment:
-```
 
-```
 
 ## Business Dashboard
 Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
