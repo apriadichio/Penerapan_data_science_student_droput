@@ -98,50 +98,12 @@ Model terbaik yang dihasilkan dalam proyek ini adalah Logistic Regression, denga
    - Mahasiswa yang membayar tepat waktu memiliki peluang jauh lebih rendah untuk dropout.
    - Artinya dukungan finansial stabil sangat penting dalam keberlangsungan studi.
 
-3. Pekerjaan Ibu (Kode 191,kode 4), Pekerjaan Ayah(Kode 193, Kode 163)
-   
-      Analisis terhadap pekerjaan orang tua menunjukkan bahwa meskipun berasal dari sektor pekerjaan informal atau berisiko rendah, seperti pekerja kebersihan (kode 191), buruh konstruksi (171), atau pekerja kasar industri (193), mahasiswa tetap memiliki peluang besar untuk menyelesaikan studi. Hal ini menunjukkan bahwa bukan semata status pekerjaan yang memengaruhi keberlanjutan studi, melainkan stabilitas pendapatan dan dukungan sosial yang diberikan orang tua. Ketekunan dan nilai pendidikan dalam keluarga memiliki peran signifikan dalam mendorong mahasiswa untuk bertahan di perguruan tinggi.
+3. Pekerjaan dan pendidikan orang Tua
+   - Pekerjaan ibu dengan kode 191 (cleaning workers) memiliki kontribusi yang tinggi terhadap keberhasilan studi, dengan koefisien +2.00 dan kontribusi 9.13%. Meskipun berasal dari sektor informal, keberadaan ibu yang aktif bekerja dapat memberikan stabilitas sosial dan nilai ketekunan yang memotivasi anak untuk bertahan.
+   - Pekerjaan ayah dengan kode 193 (unskilled workers in extractive/construction sectors) juga berkontribusi positif (+1.36 / 6.24%), serta kode 163 (skilled workers di industri) dengan kontribusi +1.28 / 5.86%. Artinya, meskipun berasal dari pekerjaan kasar atau teknis, selama keluarga mampu menjaga kestabilan finansial minimum, risiko dropout bisa ditekan.
+   - Pekerjaan ayah kode 171 (skilled construction workers) juga berdampak positif (+1.11 / 5.05%) — menandakan bahwa keberadaan pekerjaan tetap dan keterampilan teknis orang tua bisa mendukung kelanjutan studi anak.
+   - Di sisi lain, pendidikan ibu kode 4 (Master’s Degree) memiliki pengaruh positif yang tinggi terhadap kelulusan mahasiswa (+1.47 / 6.71%), menunjukkan bahwa semakin tinggi tingkat pendidikan orang tua, semakin tinggi kemungkinan anak menyelesaikan studi. Sebaliknya, kode 34 (pendidikan tidak diketahui) memiliki pengaruh negatif besar (−1.23 / 5.60%), menandakan bahwa ketidakjelasan latar belakang pendidikan di rumah dapat menambah risiko dropout.
 
-5. Pendidikan Ibu
-
-Kategori pekerjaan profesional dari ibu mendukung kelanjutan studi.
-
-Jalur Masuk (Application Mode 53) (+1.66 / 7.6%)
-
-Jalur ini berkorelasi positif terhadap keberhasilan mahasiswa.
-
-
-
-Pendidikan ibu tinggi (SMA/Universitas) mendukung keberhasilan studi.
-
-Pekerjaan Ayah (Kode 193) (+1.37 / 6.2%)
-
-Pekerjaan formal dari ayah memberi dampak positif.
-
-Kualifikasi Sebelumnya (Kode 2) (−1.35 / 6.2%)
-
-Pendidikan sebelumnya yang kurang memadai meningkatkan risiko dropout.
-
-Jalur Masuk (Kode 15) (+1.35 / 6.1%)
-
-Jalur ini juga memberikan hasil positif.
-
-Pekerjaan Ayah (Kode 163) (+1.29 / 5.9%)
-
-Jumlah SKS Semester 2 Diambil tapi Tidak Disetujui (−1.24 / 5.6%)
-
-Pendidikan Ibu (Kode 34) (−1.23 / 5.6%)
-
-Kualifikasi Sebelumnya (Kode 4) (−1.17 / 5.3%)
-
-Pekerjaan Ayah (Kode 171) (+1.11 / 5.0%)
-
-Kewarganegaraan (Kode 26) (+1.06 / 4.8%)
-
-Jalur Masuk (Application Mode 7) (−0.71 / 3.2%)
-
-
-   
 
 ### Rekomendasi Action Items
 - Identifikasi Mahasiswa Berisiko Tinggi Secara Berkala
