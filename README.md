@@ -123,11 +123,15 @@ Model terbaik yang dihasilkan dalam proyek ini adalah Logistic Regression, denga
 
   Fokuskan bantuan kepada mahasiswa yang belum up-to-date dalam pembayaran biaya pendidikan, serta yang memiliki histori akademik lemah pada semester awal.
 
-- Evaluasi kurikulum
-
-  Melakukan evaluasi kurikulum pada course-course yang memiliki rasio dropout tinggi seperti management dan basic education
+- Berikan perhatian khusus pada mahasiswa transfer dan lintas jurusan
+  
+  Mahasiswa yang berpindah jurusan atau institusi rentan terhadap ketidakcocokan studi. Perlu pendekatan personal dan program konseling akademik untuk kelompok ini.
 
 - Sistem Mentoring atau Buddy System
   
   Tunjuk mahasiswa senior sebagai mentor untuk setiap mahasiswa baru. Fokuskan pada semester 1 dan 2 yang kritis.
+
+- Kembangkan pendekatan berbasis keluarga
+  
+  Mahasiswa dari orang tua dengan pekerjaan informal atau pendidikan rendah tetap bisa bertahan dengan dukungan yang cukup. Libatkan keluarga dalam kegiatan kampus atau sediakan program penyuluhan bagi orang tua.
 
