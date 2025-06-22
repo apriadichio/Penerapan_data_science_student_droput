@@ -103,6 +103,15 @@ Model terbaik yang dihasilkan dalam proyek ini adalah Logistic Regression, denga
    - Pekerjaan ayah dengan kode 193 (unskilled workers in extractive/construction sectors) juga berkontribusi positif (+1.36 / 6.24%), serta kode 163 (skilled workers di industri) dengan kontribusi +1.28 / 5.86%. Artinya, meskipun berasal dari pekerjaan kasar atau teknis, selama keluarga mampu menjaga kestabilan finansial minimum, risiko dropout bisa ditekan.
    - Pekerjaan ayah kode 171 (skilled construction workers) juga berdampak positif (+1.11 / 5.05%) — menandakan bahwa keberadaan pekerjaan tetap dan keterampilan teknis orang tua bisa mendukung kelanjutan studi anak.
    - Di sisi lain, pendidikan ibu kode 4 (Master’s Degree) memiliki pengaruh positif yang tinggi terhadap kelulusan mahasiswa (+1.47 / 6.71%), menunjukkan bahwa semakin tinggi tingkat pendidikan orang tua, semakin tinggi kemungkinan anak menyelesaikan studi. Sebaliknya, kode 34 (pendidikan tidak diketahui) memiliki pengaruh negatif besar (−1.23 / 5.60%), menandakan bahwa ketidakjelasan latar belakang pendidikan di rumah dapat menambah risiko dropout.
+  
+4. Jalur Masuk Mahasiswa (Application Mode)
+   - Kode 53 "Short Cycle Diploma Holders" menunjukkan pengaruh positif tertinggi dalam fitur ini (+1.66 / 7.57%). Mahasiswa yang masuk melalui jalur ini cenderung memiliki latar belakang vokasional atau diploma sebelumnya, yang memberi bekal praktis dan motivasi tinggi untuk menyelesaikan studi lanjutan. Ini menunjukkan bahwa pengalaman akademik atau keterampilan sebelumnya mendorong keberhasilan.
+   - Kode 15 "International Student (Bachelor)" menunjukkan kontribusi positif (+1.35 / 6.15%). Mahasiswa internasional biasanya telah melalui proses seleksi yang lebih ketat dan memiliki kesiapan adaptasi yang lebih tinggi, baik secara mental maupun finansial. Hal ini mendukung keberlangsungan studi mereka.
+   - Kode 7 "Holders of Other Higher Courses" memiliki kontribusi negatif signifikan (−0.71 / 3.23%), menunjukkan bahwa mahasiswa yang pindah dari program studi lain justru memiliki risiko dropout lebih tinggi. Kemungkinan besar mereka merasa tidak cocok dengan program sebelumnya, mengalami kelelahan akademik, atau kurang memiliki motivasi untuk menyelesaikan studi baru.
+  
+5. Kualifikasi Sebelumnya
+   - Kode 2 "Higher Education: Bachelor's Degree" Fitur ini memiliki kontribusi negatif yang besar terhadap keberlangsungan studi (−1.35 / 6.17%), menunjukkan bahwa mahasiswa yang sebelumnya telah memiliki gelar sarjana justru cenderung lebih tinggi risikonya untuk dropout. Hal ini dapat disebabkan oleh kurangnya motivasi intrinsik, perubahan jalur karier, atau ketidakcocokan ekspektasi terhadap program baru yang diambil.
+   - Kode 4 "Higher Education: Master's" Fitur ini juga memberikan pengaruh negatif (−1.17 / 5.32%), yang mungkin menunjukkan bahwa mahasiswa yang kembali ke perguruan tinggi setelah memiliki pendidikan lanjutan justru kesulitan untuk mempertahankan komitmennya, atau mereka menghadapi tantangan dalam menyesuaikan waktu antara studi dan pekerjaan profesional.
 
 
 ### Rekomendasi Action Items
