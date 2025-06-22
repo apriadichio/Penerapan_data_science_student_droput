@@ -99,6 +99,7 @@ Model terbaik yang dihasilkan dalam proyek ini adalah Logistic Regression, denga
    - Artinya dukungan finansial stabil sangat penting dalam keberlangsungan studi.
 
 3. Pekerjaan Ibu (Kode 191,kode 4), Pekerjaan Ayah(Kode 193, Kode 163)
+   
       Analisis terhadap pekerjaan orang tua menunjukkan bahwa meskipun berasal dari sektor pekerjaan informal atau berisiko rendah, seperti pekerja kebersihan (kode 191), buruh konstruksi (171), atau pekerja kasar industri (193), mahasiswa tetap memiliki peluang besar untuk menyelesaikan studi. Hal ini menunjukkan bahwa bukan semata status pekerjaan yang memengaruhi keberlanjutan studi, melainkan stabilitas pendapatan dan dukungan sosial yang diberikan orang tua. Ketekunan dan nilai pendidikan dalam keluarga memiliki peran signifikan dalam mendorong mahasiswa untuk bertahan di perguruan tinggi.
 
 5. Pendidikan Ibu
